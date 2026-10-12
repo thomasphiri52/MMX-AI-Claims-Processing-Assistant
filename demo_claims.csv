@@ -1,0 +1,13 @@
+claim_id,claim_type,received_date,status,missing_items,assigned_to,estimated_amount_demo,days_open
+CLM-1001,Motor,2026-10-01,Needs documents,Accident photos; repair estimate,Motor Claims Team,18500,11
+CLM-1002,Property,2026-10-02,Ready for review,,Property Claims Team,42600,10
+CLM-1003,Motor,2026-10-03,Under review,,Motor Claims Team,12750,9
+CLM-1004,Liability,2026-10-03,Escalated,Legal correspondence,Specialist Claims Team,78000,9
+CLM-1005,Property,2026-10-04,Needs documents,Proof of loss; supplier estimate,Property Claims Team,23100,8
+CLM-1006,Motor,2026-10-05,Under review,,Motor Claims Team,9800,7
+CLM-1007,Liability,2026-10-06,Ready for review,,Specialist Claims Team,54000,6
+CLM-1008,Motor,2026-10-07,Needs documents,Driver details,Motor Claims Team,16400,5
+CLM-1009,Property,2026-10-08,Under review,,Property Claims Team,31200,4
+CLM-1010,Motor,2026-10-09,Escalated,Conflicting incident details,Senior Claims Team,22400,3
+CLM-1011,Property,2026-10-10,Ready for review,,Property Claims Team,19500,2
+CLM-1012,Liability,2026-10-11,Needs documents,Incident report,Specialist Claims Team,63500,1
